@@ -1,0 +1,100 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "description": "A novel about the American dream.",
+            "price": 20,
+            "author": "F. Scott Fitzgerald",
+            "pagesCount": 180,
+            "publishedYear": "1925",
+            "genre": "Fiction",
+            "language": "English",
+            "image": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "description": "A novel about racial injustice in the Deep South.",
+            "price": 15,
+            "author": "Harper Lee",
+            "pagesCount": 281,
+            "publishedYear": "1960",
+            "genre": "Fiction",
+            "language": "English",
+            "image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg"
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "description": "A dystopian novel about totalitarianism.",
+            "price": 18,
+            "author": "George Orwell",
+            "pagesCount": 328,
+            "publishedYear": "1949",
+            "genre": "Dystopian",
+            "language": "English",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3Qjd1ule62O7KSmQJ60uyspR9qBjNrQjqw&s"
+        },
+        {
+            "id": 4,
+            "title": "Pride and Prejudice",
+            "description": "A romantic novel that critiques the British landed gentry.",
+            "price": 12,
+            "author": "Jane Austen",
+            "pagesCount": 279,
+            "publishedYear": "1813",
+            "genre": "Romance",
+            "language": "English",
+            "image": "https://images.penguinrandomhouse.com/cover/9780593622452"
+        },
+        {
+            "id": 5,
+            "title": "The Catcher in the Rye",
+            "description": "A story about teenage angst and alienation.",
+            "price": 22,
+            "author": "J.D. Salinger",
+            "pagesCount": 277,
+            "publishedYear": "1951",
+            "genre": "Fiction",
+            "language": "English",
+            "image": "https://m.media-amazon.com/images/I/81OthjkJBuL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Moby Dick",
+            "description": "A novel about the obsession with hunting a giant whale.",
+            "price": 25,
+            "author": "Herman Melville",
+            "pagesCount": 585,
+            "publishedYear": "1851",
+            "genre": "Adventure",
+            "language": "English",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWUyOTgyMzktMjhmNi00NThkLTkxMGEtMGU0ZDEzZWQxNjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": 7,
+            "title": "War and Peace",
+            "description": "A historical novel that intertwines the lives of several families during the Napoleonic Wars.",
+            "price": 30,
+            "author": "Leo Tolstoy",
+            "pagesCount": 1225,
+            "publishedYear": "1869",
+            "genre": "Historical Fiction",
+            "language": "English",
+            "image": "https://m.media-amazon.com/images/I/71lPZpwz0HL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Hobbit",
+            "description": "A fantasy novel about the adventures of Bilbo Baggins.",
+            "price": 17,
+            "author": "J.R.R. Tolkien",
+            "pagesCount": 310,
+            "publishedYear": "1937",
+            "genre": "Fantasy",
+            "language": "English",
+            "image": "https://images.penguinrandomhouse.com/cover/9780345534835"
+        }
+    ]
+}
